@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mis super viajes on Acme Corporation</title>
+    <link>/viajes/</link>
+    <description>Recent content in Mis super viajes on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Wed, 21 Sep 2022 07:45:59 +0200</lastBuildDate><atom:link href="/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paris</title>
+      <link>/viajes/paris/</link>
+      <pubDate>Wed, 21 Sep 2022 07:45:59 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/viajes/paris/</guid>
+      <description>París, la capital de Francia, es una importante ciudad europea y un centro mundial del arte, la moda, la gastronomía y la cultura. Su paisaje urbano del siglo XIX está entrecruzado por amplios bulevares y el río Sena. Aparte de estos hitos, como la Torre Eiffel y la catedral gótica de Notre Dame del siglo XII, la ciudad es famosa por su cultura del café y las tiendas de moda de diseñador a lo largo de la calle Rue du Faubourg Saint-Honoré.</description>
+    </item>
+    
+    <item>
+      <title>Viena</title>
+      <link>/viajes/viena/</link>
+      <pubDate>Wed, 21 Sep 2022 07:45:59 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/viajes/viena/</guid>
+      <description>Viena, la capital de Austria, se encuentra en la zona este del país en el río Danubio. Su legado artístico e intelectual se formó gracias a sus residentes, incluidos Mozart, Beethoven y Sigmund Freud. La ciudad también es conocida por sus palacios imperiales, incluido el Schönbrunn, la residencia de verano de los Habsburgo. En el distrito Museumsquartier, los edificios históricos y contemporáneos exhiben obras de Egon Schiele, Gustav Klimt y otros artistas.</description>
+    </item>
+    
+    <item>
+      <title>Pirineos</title>
+      <link>/viajes/pirineos/</link>
+      <pubDate>Wed, 21 Sep 2022 07:35:48 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/viajes/pirineos/</guid>
+      <description>Pirineos, la cadena montañosa de los Pirineos separa la península Ibérica del resto de Europa, se extiende por más de 430 km entre España y Francia y se alza por sobre los 3,400 m de altura. Los senderos de excursionismo cruzan toda la extensión de la cadena y los parques nacionales ofrecen senderos más cortos, mientras que hay decenas de centros de esquí a ambos lados de los Pirineos </description>
+    </item>
+    
+  </channel>
+</rss>

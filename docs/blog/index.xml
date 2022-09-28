@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Acme Corporation</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Acme Corporation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Thu, 22 Sep 2022 13:51:23 +0200</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogpirineos</title>
+      <link>/blog/blogpirineos/</link>
+      <pubDate>Thu, 22 Sep 2022 13:51:23 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/blog/blogpirineos/</guid>
+      <description>Grandes montañas y glaciares que recuerdan el origen de la cordillera, espacios protegidos, parques naturales, ibones, valles, ríos salvajes y barrancos que llaman a la aventura… Estos son los ingredientes que componen el Pirineo Aragonés Sin duda hay que visitar Ordesa y Monte Perdido, patrimonio Mundial de la humanidad en 1997&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Blogparis</title>
+      <link>/blog/blogparis/</link>
+      <pubDate>Thu, 22 Sep 2022 13:51:15 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/blog/blogparis/</guid>
+      <description>En París, entre los lugares más bonitos y emblemáticos se encuentran la Torre Eiffel por supuesto, los Jardines de Trocadero, hacer un picnic en el Champ de Mars, que es el parque público que está en frente de la Torre Eiffel, también puedes optar por un paseo en barco por el Sena. El museo Louvre sin duda es una de las mejores visitas que hacer en París también. Entre sus comidas típicas no puedes irte sin probar los pasteles de la pastelería Stohrer, un Steak tartar en el Severo o los míticos Macarons en en Ladurée </description>
+    </item>
+    
+    <item>
+      <title>Blogviena</title>
+      <link>/blog/blogviena/</link>
+      <pubDate>Thu, 22 Sep 2022 13:50:57 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>/blog/blogviena/</guid>
+      <description>Los lugares más bonitos para visitar son el Palacio de Schönbrunn, el Mercado Naschmarkt y la Ópera de Viena, entre otros. No debes irte sin probar el Schweinebraten, es un plato clásico tanto del norte de Austria como de Alemania. Consiste en un asado de cerdo envuelto de una costra crujiente a base de especias y mostaza. </description>
+    </item>
+    
+  </channel>
+</rss>
