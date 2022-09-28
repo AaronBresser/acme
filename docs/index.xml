@@ -2,7 +2,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ACME Corp. on Acme Corporation</title>
-    <link>/</link>
+    <link>/acme/</link>
     <description>Recent content in ACME Corp. on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
@@ -10,87 +10,87 @@
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
     <lastBuildDate>Mon, 26 Sep 2022 09:11:20 +0200</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
 <title>Blogpirineos</title>
-<link>/blog/blogpirineos/</link>
+<link>/acme/blog/blogpirineos/</link>
 <pubDate>Thu, 22 Sep 2022 13:51:23 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/blog/blogpirineos/</guid>
+      <guid>/acme/blog/blogpirineos/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Blogparis</title>
-<link>/blog/blogparis/</link>
+<link>/acme/blog/blogparis/</link>
 <pubDate>Thu, 22 Sep 2022 13:51:15 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/blog/blogparis/</guid>
+      <guid>/acme/blog/blogparis/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Blogviena</title>
-<link>/blog/blogviena/</link>
+<link>/acme/blog/blogviena/</link>
 <pubDate>Thu, 22 Sep 2022 13:50:57 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/blog/blogviena/</guid>
+      <guid>/acme/blog/blogviena/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Paris</title>
-<link>/viajes/paris/</link>
+<link>/acme/viajes/paris/</link>
 <pubDate>Wed, 21 Sep 2022 07:45:59 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/viajes/paris/</guid>
+      <guid>/acme/viajes/paris/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Viena</title>
-<link>/viajes/viena/</link>
+<link>/acme/viajes/viena/</link>
 <pubDate>Wed, 21 Sep 2022 07:45:59 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/viajes/viena/</guid>
+      <guid>/acme/viajes/viena/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Pirineos</title>
-<link>/viajes/pirineos/</link>
+<link>/acme/viajes/pirineos/</link>
 <pubDate>Wed, 21 Sep 2022 07:35:48 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/viajes/pirineos/</guid>
+      <guid>/acme/viajes/pirineos/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Acerca de mí</title>
-<link>/acercade/</link>
+<link>/acme/acercade/</link>
 <pubDate>Wed, 21 Sep 2022 07:35:40 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acercade/</guid>
+      <guid>/acme/acercade/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Contacto</title>
-<link>/contacto/</link>
+<link>/acme/contacto/</link>
 <pubDate>Wed, 21 Sep 2022 07:35:40 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/contacto/</guid>
+      <guid>/acme/contacto/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title>Curriculum</title>
-<link>/curriculum/</link>
+<link>/acme/curriculum/</link>
 <pubDate>Wed, 21 Sep 2022 07:35:40 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/curriculum/</guid>
+      <guid>/acme/curriculum/</guid>
 <description></description>
 <category></category></item>
     
