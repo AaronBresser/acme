@@ -1,7 +1,7 @@
 ---
 title: "Pirineos"
 date: 2022-09-21T07:35:48+02:00
-draft: true
+draft: false
 ---
 
 # Pirineos, la cadena montañosa de los Pirineos separa la península Ibérica del resto de Europa, se extiende por más de 430 km entre España y Francia y se alza por sobre los 3,400 m de altura. Los senderos de excursionismo cruzan toda la extensión de la cadena y los parques nacionales ofrecen senderos más cortos, mientras que hay decenas de centros de esquí a ambos lados de los Pirineos

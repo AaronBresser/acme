@@ -1,7 +1,7 @@
 ---
 title: "Blogviena"
 date: 2022-09-22T13:50:57+02:00
-draft: true
+draft: false
 ---
 
 ## Los lugares más bonitos para visitar son el Palacio de Schönbrunn, el Mercado Naschmarkt y la Ópera de Viena, entre otros.

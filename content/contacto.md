@@ -1,7 +1,7 @@
 ---
 title: "Contacto"
 date: 2022-09-21T07:35:40+02:00
-draft: true
+draft: false
 ---
 
 # Datos de contacto

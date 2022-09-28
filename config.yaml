@@ -1,4 +1,4 @@
-baseURL: "http://mipagina.com"
+baseURL: "/"
 languageCode: es-es 
 title: Acme Corporation 
 theme: Eclectic 
@@ -22,8 +22,8 @@ menu:
       url: /blog 
       weight: 75 
     - identifier: about 
-      name: Acerca de 
-      url: /about
+      name: Acerca de
+      url: /acercade
       weight: 100 
     - identifier: viajes 
       name: Viajes
