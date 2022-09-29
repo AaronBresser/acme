@@ -1,7 +1,7 @@
 baseURL: "/"
 languageCode: es-es 
 title: Acme Corporation 
-theme: Eclectic 
+theme: basico
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -14,24 +14,29 @@ author:
 menu:
   main: 
     - identifier: curriculum 
-      name: curriculum 
+      name: Curriculum 
       url: /curriculum 
+      pageRef: curriculum
       weight: 50 
     - identifier: blog 
-      name: blog 
+      name: Blog 
       url: /blog 
+      pageRef: blog
       weight: 75 
     - identifier: about 
       name: Acerca de
       url: /acercade
+      pageRef: acercade
       weight: 100 
     - identifier: viajes 
       name: Viajes
       url: /viajes
+      pageRef: viajes
       weight: 150
     - identifier: contact
       name: Contacto 
       url: /contacto 
+      pageRef: Contacto
       weight: 200 
 params: 
   color: "#4f46e5"
