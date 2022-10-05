@@ -33,16 +33,26 @@ menu:
       url: /viajes
       pageRef: viajes
       weight: 150
-    - identifier: contact
+    - identifier: contacto
       name: Contacto 
       url: /contacto 
       pageRef: Contacto
       weight: 200 
-      identifier: tv
+    - identifier: tv
       name: Canales 
       url: /television/canales
       pageRef: tv
-      weight: 200
+      weight: 225
+    - identifier: peliculas 
+      name: Peliculas 
+      url: /peliculas 
+      pageRef: peliculas
+      weight: 230
+    - identifier: centros 
+      name: Centros
+      url: /centros 
+      pageRef: centros
+      weight: 235
 params: 
   color: "#4f46e5"
   copyright: "Copyright &copy; 2022 Acme Corporation. Todos los derechos reservados."

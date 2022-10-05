@@ -7,14 +7,6 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     </head>
- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.1/dist/leaflet.css"
-   integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
-   crossorigin=""/>
-
-<style>
-#map { height: 240px; }
-</style>
-
     </head>
     <body>
         <nav class="navbar navbar-expand-lg bg-light">
@@ -52,7 +44,7 @@
               </li>
           
               <li class="nav-item">
-              <a class='nav-link '  href="/acme/peliculas/">Peliculas</a>
+              <a class='nav-link  active '  href="/acme/peliculas/">Peliculas</a>
               </li>
           
               <li class="nav-item">
@@ -72,33 +64,15 @@
     <h1 class="text-center">Acme Corporation</h1>
  </header>
 <div id="content">
-<div class="container">
-<h1 class="titulo">Viena</h1>
- <div id="map"></div>
-<h1 id="viena-la-capital-de-austria-se-encuentra-en-la-zona-este-del-país-en-el-río-danubio-su-legado-artístico-e-intelectual-se-formó-gracias-a-sus-residentes-incluidos-mozart-beethoven-y-sigmund-freud-la-ciudad-también-es-conocida-por-sus-palacios-imperiales-incluido-el-schönbrunn-la-residencia-de-verano-de-los-habsburgo-en-el-distrito-museumsquartier-los-edificios-históricos-y-contemporáneos-exhiben-obras-de-egon-schiele-gustav-klimt-y-otros-artistas">Viena, la capital de Austria, se encuentra en la zona este del país en el río Danubio. Su legado artístico e intelectual se formó gracias a sus residentes, incluidos Mozart, Beethoven y Sigmund Freud. La ciudad también es conocida por sus palacios imperiales, incluido el Schönbrunn, la residencia de verano de los Habsburgo. En el distrito Museumsquartier, los edificios históricos y contemporáneos exhiben obras de Egon Schiele, Gustav Klimt y otros artistas.</h1>
-<p><img src="https://viajes.nationalgeographic.com.es/medio/2019/01/30/hofburg-palacio-imperial-viena_b65d8a2d_1200x630.jpg" alt="Viena"></p>
+<h2>Peliculas</h2>
+<ul>
 
-</div>
+<li><a href= "/acme/peliculas/mas-valoradas/" >Mas Valoradas</a></li>
 
- <script src="https://unpkg.com/leaflet@1.9.1/dist/leaflet.js"
-   integrity="sha256-NDI0K41gVbWqfkkaHj15IzU7PtMoelkzyKp8TOaFQ3s="
-   crossorigin=""></script>
- 
+</ul>
+
         </div><footer>
     <small>Copyright 5055 Yo.</small>
 </footer><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
-<script>
-var map = L.map('map').setView([ 48.2203445 ,  16.09988 ], 13);
-
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
-
-L.marker([ 48.2203445 ,  16.09988 
-]).addTo(map)
-    .bindPopup('');
-    
-</script>
-
     </body>
 </html>
