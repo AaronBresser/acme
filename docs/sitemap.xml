@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/acme/centros/</loc>
+    <loc>/centros/</loc>
     <lastmod>2022-10-03T09:36:01+02:00</lastmod>
   </url><url>
-    <loc>/acme/centros/institutos/</loc>
+    <loc>/centros/institutos/</loc>
     <lastmod>2022-10-03T09:36:01+02:00</lastmod>
   </url><url>
-    <loc>/acme/peliculas/mas-valoradas/</loc>
+    <loc>/peliculas/mas-valoradas/</loc>
     <lastmod>2022-10-03T09:36:01+02:00</lastmod>
   </url><url>
-    <loc>/acme/peliculas/</loc>
+    <loc>/peliculas/</loc>
     <lastmod>2022-10-03T09:36:01+02:00</lastmod>
   </url><url>
-    <loc>/acme/television/canales/</loc>
+    <loc>/television/canales/</loc>
     <lastmod>2022-09-29T12:16:37+02:00</lastmod>
   </url><url>
-    <loc>/acme/television/</loc>
+    <loc>/television/</loc>
     <lastmod>2022-09-29T12:16:37+02:00</lastmod>
   </url><url>
-    <loc>/acme/</loc>
+    <loc>/</loc>
     <lastmod>2022-09-26T09:11:20+02:00</lastmod>
   </url><url>
-    <loc>/acme/blog/blogpirineos/</loc>
+    <loc>/blog/blogpirineos/</loc>
     <lastmod>2022-09-22T13:51:23+02:00</lastmod>
   </url><url>
-    <loc>/acme/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2022-09-22T13:51:23+02:00</lastmod>
   </url><url>
-    <loc>/acme/blog/blogparis/</loc>
+    <loc>/blog/blogparis/</loc>
     <lastmod>2022-09-22T13:51:15+02:00</lastmod>
   </url><url>
-    <loc>/acme/blog/blogviena/</loc>
+    <loc>/blog/blogviena/</loc>
     <lastmod>2022-09-22T13:50:57+02:00</lastmod>
   </url><url>
-    <loc>/acme/viajes/</loc>
+    <loc>/viajes/</loc>
     <lastmod>2022-09-21T07:45:59+02:00</lastmod>
   </url><url>
-    <loc>/acme/viajes/paris/</loc>
+    <loc>/viajes/paris/</loc>
     <lastmod>2022-09-21T07:45:59+02:00</lastmod>
   </url><url>
-    <loc>/acme/viajes/viena/</loc>
+    <loc>/viajes/viena/</loc>
     <lastmod>2022-09-21T07:45:59+02:00</lastmod>
   </url><url>
-    <loc>/acme/viajes/pirineos/</loc>
+    <loc>/viajes/pirineos/</loc>
     <lastmod>2022-09-21T07:35:48+02:00</lastmod>
   </url><url>
-    <loc>/acme/acercade/</loc>
+    <loc>/acercade/</loc>
     <lastmod>2022-09-21T07:35:40+02:00</lastmod>
   </url><url>
-    <loc>/acme/contacto/</loc>
+    <loc>/contacto/</loc>
     <lastmod>2022-09-21T07:35:40+02:00</lastmod>
   </url><url>
-    <loc>/acme/curriculum/</loc>
+    <loc>/curriculum/</loc>
     <lastmod>2022-09-21T07:35:40+02:00</lastmod>
   </url><url>
-    <loc>/acme/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>/acme/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
