@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ACME Corp. on Acme Corporation</title>
-    <link>/</link>
+    <link>/acme/</link>
     <description>Recent content in ACME Corp. on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Mon, 26 Sep 2022 09:11:20 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 09:11:20 +0200</lastBuildDate><atom:link href="/acme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Institutos</title>
-      <link>/centros/institutos/</link>
+      <link>/acme/centros/institutos/</link>
       <pubDate>Mon, 03 Oct 2022 09:36:01 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/centros/institutos/</guid>
+      <guid>/acme/centros/institutos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mas Valoradas</title>
-      <link>/peliculas/mas-valoradas/</link>
+      <link>/acme/peliculas/mas-valoradas/</link>
       <pubDate>Mon, 03 Oct 2022 09:36:01 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/peliculas/mas-valoradas/</guid>
+      <guid>/acme/peliculas/mas-valoradas/</guid>
       <description>Películas más valoradas Datos de imdb.com</description>
     </item>
     
     <item>
       <title>Television</title>
-      <link>/television/canales/</link>
+      <link>/acme/television/canales/</link>
       <pubDate>Thu, 29 Sep 2022 12:16:37 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/television/canales/</guid>
+      <guid>/acme/television/canales/</guid>
       <description>Canales de televisión en internet Antena 3, Tecuento, Geoguess</description>
     </item>
     
     <item>
       <title>Blogpirineos</title>
-      <link>/blog/blogpirineos/</link>
+      <link>/acme/blog/blogpirineos/</link>
       <pubDate>Thu, 22 Sep 2022 13:51:23 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/blog/blogpirineos/</guid>
+      <guid>/acme/blog/blogpirineos/</guid>
       <description>Grandes montañas y glaciares que recuerdan el origen de la cordillera, espacios protegidos, parques naturales, ibones, valles, ríos salvajes y barrancos que llaman a la aventura… Estos son los ingredientes que componen el Pirineo Aragonés Sin duda hay que visitar Ordesa y Monte Perdido, patrimonio Mundial de la humanidad en 1997&amp;hellip; </description>
     </item>
     
     <item>
       <title>Blogparis</title>
-      <link>/blog/blogparis/</link>
+      <link>/acme/blog/blogparis/</link>
       <pubDate>Thu, 22 Sep 2022 13:51:15 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/blog/blogparis/</guid>
+      <guid>/acme/blog/blogparis/</guid>
       <description>En París, entre los lugares más bonitos y emblemáticos se encuentran la Torre Eiffel por supuesto, los Jardines de Trocadero, hacer un picnic en el Champ de Mars, que es el parque público que está en frente de la Torre Eiffel, también puedes optar por un paseo en barco por el Sena. El museo Louvre sin duda es una de las mejores visitas que hacer en París también. Entre sus comidas típicas no puedes irte sin probar los pasteles de la pastelería Stohrer, un Steak tartar en el Severo o los míticos Macarons en en Ladurée </description>
     </item>
     
     <item>
       <title>Blogviena</title>
-      <link>/blog/blogviena/</link>
+      <link>/acme/blog/blogviena/</link>
       <pubDate>Thu, 22 Sep 2022 13:50:57 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/blog/blogviena/</guid>
+      <guid>/acme/blog/blogviena/</guid>
       <description>Los lugares más bonitos para visitar son el Palacio de Schönbrunn, el Mercado Naschmarkt y la Ópera de Viena, entre otros. No debes irte sin probar el Schweinebraten, es un plato clásico tanto del norte de Austria como de Alemania. Consiste en un asado de cerdo envuelto de una costra crujiente a base de especias y mostaza. </description>
     </item>
     
     <item>
       <title>Paris</title>
-      <link>/viajes/paris/</link>
+      <link>/acme/viajes/paris/</link>
       <pubDate>Wed, 21 Sep 2022 07:45:59 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/viajes/paris/</guid>
+      <guid>/acme/viajes/paris/</guid>
       <description>París, la capital de Francia, es una importante ciudad europea y un centro mundial del arte, la moda, la gastronomía y la cultura. Su paisaje urbano del siglo XIX está entrecruzado por amplios bulevares y el río Sena. Aparte de estos hitos, como la Torre Eiffel y la catedral gótica de Notre Dame del siglo XII, la ciudad es famosa por su cultura del café y las tiendas de moda de diseñador a lo largo de la calle Rue du Faubourg Saint-Honoré.</description>
     </item>
     
     <item>
       <title>Viena</title>
-      <link>/viajes/viena/</link>
+      <link>/acme/viajes/viena/</link>
       <pubDate>Wed, 21 Sep 2022 07:45:59 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/viajes/viena/</guid>
+      <guid>/acme/viajes/viena/</guid>
       <description>Viena, la capital de Austria, se encuentra en la zona este del país en el río Danubio. Su legado artístico e intelectual se formó gracias a sus residentes, incluidos Mozart, Beethoven y Sigmund Freud. La ciudad también es conocida por sus palacios imperiales, incluido el Schönbrunn, la residencia de verano de los Habsburgo. En el distrito Museumsquartier, los edificios históricos y contemporáneos exhiben obras de Egon Schiele, Gustav Klimt y otros artistas.</description>
     </item>
     
     <item>
       <title>Pirineos</title>
-      <link>/viajes/pirineos/</link>
+      <link>/acme/viajes/pirineos/</link>
       <pubDate>Wed, 21 Sep 2022 07:35:48 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/viajes/pirineos/</guid>
+      <guid>/acme/viajes/pirineos/</guid>
       <description>Pirineos, la cadena montañosa de los Pirineos separa la península Ibérica del resto de Europa, se extiende por más de 430 km entre España y Francia y se alza por sobre los 3,400 m de altura. Los senderos de excursionismo cruzan toda la extensión de la cadena y los parques nacionales ofrecen senderos más cortos, mientras que hay decenas de centros de esquí a ambos lados de los Pirineos </description>
     </item>
     
     <item>
       <title>Acerca de mí</title>
-      <link>/acercade/</link>
+      <link>/acme/acercade/</link>
       <pubDate>Wed, 21 Sep 2022 07:35:40 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/acercade/</guid>
+      <guid>/acme/acercade/</guid>
       <description>Mi nombre es Aaron, soy un estudiante de 2º de DAW y esta es la primer tarea de Desarrollo Web en entorno servidor. Mi instagram: @aaron_bresser </description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>/contacto/</link>
+      <link>/acme/contacto/</link>
       <pubDate>Wed, 21 Sep 2022 07:35:40 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/contacto/</guid>
+      <guid>/acme/contacto/</guid>
       <description>Datos de contacto Facebook: &amp;ldquo;https://facebook.com/ejemplo&amp;quot;
 Twitter: &amp;ldquo;https://twitter.com/ejemplo&amp;quot;
 Email: &amp;ldquo;contacto@ejemplo.org&amp;rdquo;
@@ -116,10 +116,10 @@ Horario: &amp;ldquo;Lunes-Viernes 9:00AM - 6:00PM&amp;rdquo;</description>
     
     <item>
       <title>Curriculum</title>
-      <link>/curriculum/</link>
+      <link>/acme/curriculum/</link>
       <pubDate>Wed, 21 Sep 2022 07:35:40 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>/curriculum/</guid>
+      <guid>/acme/curriculum/</guid>
       <description>Mi nombre es Aaron Soy un estudiante&amp;hellip;</description>
     </item>
     
